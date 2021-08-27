@@ -11,6 +11,5 @@ class MyUser extends Model
         $name = 'mattsu';
         $name2 = 'kanta';
         $sum = $name . $name2;
-        // dump($sum); 
     }
 }
